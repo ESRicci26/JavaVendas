@@ -16,7 +16,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author Caio Duarte
+ * @author Edilson Ricci
  */
 public class Utilitarios {
 

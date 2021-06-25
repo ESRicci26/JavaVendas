@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Caio Duarte
+ * @author Edilson Ricci
  */
 public class FornecedoresDAO {
 

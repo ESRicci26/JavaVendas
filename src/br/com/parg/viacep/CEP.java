@@ -8,7 +8,7 @@ package br.com.parg.viacep;
 
 /**
  * Define um CEP
- * @author PABLO
+ * @author Edilson Ricci
  */
 public class CEP {
     // pripriedades do CEP

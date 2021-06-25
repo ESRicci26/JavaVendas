@@ -1,7 +1,6 @@
 /*
  * PARG Desenvolvimento de Sistemas
- * Pablo Alexander - pablo@parg.com.br
- * 
+  * 
  * Obtem um CEP no ViaCEP
  */
 package br.com.parg.viacep;
@@ -9,7 +8,7 @@ package br.com.parg.viacep;
 /**
  * Interface para os eventos
  *
- * @author Pablo Alexander da Rocha Gonçalves
+ * @author Edilson Ricci
  */
 public interface ViaCEPEvents {
     /**

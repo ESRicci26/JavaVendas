@@ -7,7 +7,7 @@ package br.com.projeto.model;
 
 /**
  *
- * @author Caio Duarte
+ * @author Edilson Ricci
  */
 public class Fornecedores extends  Clientes {
     

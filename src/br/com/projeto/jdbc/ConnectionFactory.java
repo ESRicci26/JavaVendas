@@ -10,7 +10,7 @@ import java.sql.DriverManager;
 
 /**
  *
- * @author Caio Duarte
+ * @author Edilson Ricci
  */
 public class ConnectionFactory {
 

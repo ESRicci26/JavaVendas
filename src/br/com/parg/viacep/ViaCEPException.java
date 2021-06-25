@@ -1,14 +1,13 @@
 /*
  * PARG Desenvolvimento de Sistemas
- * Pablo Alexander - pablo@parg.com.br
- * 
+  * 
  * Obtem um CEP no ViaCEP
  */
 package br.com.parg.viacep;
 
 /**
  * Classe para registrar uma exceção de CEP
- * @author Pablo Alexander da Rocha Gonçalves
+ * @author Edilson Ricci
  */
 public class ViaCEPException extends Exception {
     private String CEP;

@@ -1,7 +1,5 @@
 /*
- * PARG Desenvolvimento de Sistemas
- * Pablo Alexander - pablo@parg.com.br
- * 
+ 
  * Obtem um CEP no ViaCEP
  */
 package br.com.parg.viacep;
@@ -20,7 +18,7 @@ import java.util.List;
 
 /**
  * Serve como base para a classe ViaCEP
- * @author PABLO
+ * @author Edilson Ricci
  */
 public abstract class ViaCEPBase {
     // pripriedades do CEP
